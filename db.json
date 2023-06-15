@@ -177,5 +177,12 @@
       "category": "Japanese",
       "image": "https://menu.storage.iran.liara.space/images/Ramen.jpg"
     }
+  ],
+  "category": [
+    { "id": 1, "category": "Italian" },
+    { "id": 2, "category": "American" },
+    { "id": 2, "category": "Japanese" },
+    { "id": 2, "category": "Mexican" },
+    { "id": 2, "category": "Thai" }
   ]
 }
