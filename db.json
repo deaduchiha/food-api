@@ -179,10 +179,10 @@
     }
   ],
   "category": [
-    { "id": 1, "category": "Italian" },
-    { "id": 2, "category": "American" },
-    { "id": 2, "category": "Japanese" },
-    { "id": 2, "category": "Mexican" },
-    { "id": 2, "category": "Thai" }
+    { "id": 1, "title": "Italian" },
+    { "id": 2, "title": "American" },
+    { "id": 3, "title": "Japanese" },
+    { "id": 4, "title": "Mexican" },
+    { "id": 5, "title": "Thai" }
   ]
 }
